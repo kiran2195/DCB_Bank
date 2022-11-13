@@ -1,6 +1,6 @@
 public class Demo {
 private int a;
-privat boolean flag;
+private boolean flag;
 
 }
 
